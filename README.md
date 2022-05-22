@@ -4,7 +4,7 @@ This repository includes my projects from the Practicum100 Data Analysis 7-month
 |Project Name | Project Description | Libraries Used |
 |-------------|---------------------|----------------|
 |[Data Preprocessing](https://github.com/Hannietu/Practicum100-Projects/tree/main/Business-Analytics-Project) |This project generates a report for a bank’s loan division, with the goal to find out if a customer’s marital status and number of children has an impact on whether they will default on a loan| pandas, nltk |
-|Exploratory Data Analysis |This project included an analysis of car advertisements to determine which factors influence the price of a vehicle |pandas, numpy, matplotlib |
+|[Exploratory Data Analysis] (https://github.com/Hannietu/Practicum100-Projects/tree/main/EDA-Project) |This project included an analysis of car advertisements to determine which factors influence the price of a vehicle |pandas, numpy, matplotlib |
 |Statistical Data Analysis |This project includes an investigation on which of the Megaline telecom company pre paid plans brings in more revenue and how we should adjust the company's advertising budget to better fit the clients needs |pandas, numnpy, matplotlib, seaborn, stats|
 |Integrated Project 1 |This project includes an investigation on video games sold around the world to identify patterns that determine whether a game succeeds or not, which will assist in spoting potential big winners and plan advertising campaigns in the company |pandas, numpy, matplotlib, sidetable, seaborn, stats |
 |Business Analytics |This project includes an analysis of Yandex.Afisha users data in order to optimize the marketing expenses for the product |pandas, numpy, datetime, plotly, sidetable, matplotlib, seaborn|
