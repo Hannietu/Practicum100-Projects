@@ -9,9 +9,9 @@
 <br>The dataset contains the transaction history of an online store that sells household goods.</br>
 
 <br><b>`InvoiceNo` </b>— order identifier
-<br><b>`StockCode` — item identifier
-<br><b>`Description` — item name
-<br><b>`Quantity`
-<br><b>`InvoiceDate` — order date
-<br><b>`UnitPrice` — price per item
-<br><b>`CustomerID`
+<br><b>`StockCode` </b>— item identifier
+<br><b>`Description` </b>— item name
+<br><b>`Quantity`</b>
+<br><b>`InvoiceDate` </b>— order date
+<br><b>`UnitPrice` </b>— price per item
+<br><b>`CustomerID`</b>
